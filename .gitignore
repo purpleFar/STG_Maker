@@ -1,0 +1,34 @@
+# Ignore build directories and compiled files
+/build/
+/dist/
+/out/
+*.class
+
+# Ignore IDE specific files
+/.idea/
+/.vscode/
+/nbproject/
+
+# Ignore logs, temp, and OS-specific files
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Ignore executable and package files
+*.exe
+
+# Ignore media files that are not essential for the source code
+*.mp4
+*.mp3
+
+# Ignore documentation files
+*.pdf
+*.doc
+*.docx
+
+# Ignore configuration and settings files
+*.xml
+*.iml
+*.mf
